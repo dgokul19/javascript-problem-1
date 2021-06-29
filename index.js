@@ -1,4 +1,4 @@
-// Find each uninque value and its length;
+// Find each uninque value and its count;
 
 const givenArray = ['a','e','v','s','s','c','c','a','v','e','a','v'];
 
